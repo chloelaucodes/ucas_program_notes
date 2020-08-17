@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1b1de0c-1af9-46b3-9bff-66ac4eff292a" name="Default Changelist" comment="" />
+    <list default="true" id="b1b1de0c-1af9-46b3-9bff-66ac4eff292a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +34,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597694341388</updated>
-      <workItem from="1597694349457" duration="3000" />
+      <workItem from="1597694349457" duration="294000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>
