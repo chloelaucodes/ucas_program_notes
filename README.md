@@ -8,7 +8,7 @@
 ## Introduction
 This is a useful pack of resources for Computer Science Applicants, from Admission Tests, to
  Interview Questions. The aim of the pack is to help build the student's mindset alongside
-  teaching them computer science knowledge
+  teaching them computer science knowledge.
 
 ## Repository
 This repository holds 7 Seminar Folders, of which contains resources for each of the 7 Seminar's
